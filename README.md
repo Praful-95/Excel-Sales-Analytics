@@ -1,13 +1,13 @@
 ## Creatad a report for AtliQ Hardwares 
 
-**AtliQ Business Model**
-: Hardware company that sell peripherals such as PC, Mouse, Keyboard, printers to clients across the worid.
+**AtliQ Business Model:**
+ Hardware company that sell peripherals such as PC, Mouse, Keyboard, printers to clients across the worid.
 
-**Problem Statement**
-: To create a Finance and Sales report to improve the **Gross Margin** and **Overall Net sales**.
+**Problem Statement:**
+ To create a Finance and Sales report to improve the **Gross Margin** and **Overall Net sales**.
 
-**Finance Analytics**
-: Analyzed financial metries such as **Net sales**, **COGS (Cost of Goods Sold)**, **Gross Margin**, and **GM% (Gross Margin Percentage)** on a monthly, quarterly, and annual basis for the fiscal year
+**Finance Analytics:**
+ Analyzed financial metries such as **Net sales**, **COGS (Cost of Goods Sold)**, **Gross Margin**, and **GM% (Gross Margin Percentage)** on a monthly, quarterly, and annual basis for the fiscal year
 
 ## Sales Report :
 
